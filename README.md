@@ -1,6 +1,6 @@
 <div align="center">
   <img src="URL_DA_SUA_FOTO_DE_PERFIL_CIRCULAR" alt="Sua Foto" width="150" height="150" style="border-radius: 50%;">
-  <h1>Olá, Mundo! 👋 Eu sou [Seu Nome]</h1>
+  <h1>Olá, eu sou o Morreu!</h1>
   <p>Um aspirante a desenvolvedor de sistemas apaixonado por aprender e construir soluções inovadoras.</p>
 </div>
 
@@ -25,6 +25,8 @@
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></code>
 ## 💼 Projetos
+
+* preguica de colocar saporra
 
 ## 🌱 Próximos Passos
 

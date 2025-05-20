@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/fotos-gratis/vista-de-um-animal-engracado_23-2151098354.jpg?semt=ais_hybrid&w=740" alt="Sua Foto" width="150" height="150" style="border-radius: 50%;">
-  <h1>Olá, eu sou o Morreu!</h1>
+  <h1 style="border-bottom: 3px solid #4CAF50; padding-bottom: 5px; display: inline-block; transition: width 0.3s ease-in-out; width: 100%; text-align: center;">Olá, Mundo! 👋 Eu sou [Seu Nome]</h1>
   <p>Um aspirante a desenvolvedor de sistemas apaixonado por aprender e construir soluções inovadoras.</p>
 </div>
 

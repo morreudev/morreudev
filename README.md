@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DA_SUA_FOTO_DE_PERFIL_CIRCULAR" alt="Sua Foto" width="150" height="150" style="border-radius: 50%;">
+  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FGatos%2Fcomments%2F1ae7qgi%2Fmeu_gato_%25C3%25A9_praticamente_o_gato_do_meme%2F&psig=AOvVaw3UkSvMruEpdaQQhlvshIkP&ust=1747787829725000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjDnZbnsI0DFQAAAAAdAAAAABAX)" alt="Sua Foto" width="150" height="150" style="border-radius: 50%;">
   <h1>Olá, eu sou o Morreu!</h1>
   <p>Um aspirante a desenvolvedor de sistemas apaixonado por aprender e construir soluções inovadoras.</p>
 </div>

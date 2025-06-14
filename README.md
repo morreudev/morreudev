@@ -17,7 +17,7 @@
 <div align="center">
   <h2>My Tech Stack</h2><br>
   <p align="center" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,,nodejs,git,python,java,mysql" alt="Tech Stack logos">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,java,mysql" alt="Tech Stack logos">
   </p>
    <br>
    <br>

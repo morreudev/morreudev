@@ -8,7 +8,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Business Administration Student | Full-Stack Developer | App Developer | Linux User | AI Enthusiast</h3>
 <p align="center">
-  I have been a programmer since 2017, and I am currently graduating in Business Administration. I am passionate about creating innovative solutions, especially in the realm of Artificial Intelligence, and continuously learning new technologies. I specialize in app development and work with various technologies. I am also a dedicated Linux user and advocate for open-source tools. Below, you will find more about my skills and interests. Feel free to reach out if you want to collaborate!
+  I have been a programmer since 2022, and I am currently graduating in Business Administration. I am passionate about creating innovative solutions, especially in the realm of Artificial Intelligence, and continuously learning new technologies. I specialize in app development and work with various technologies. I am also a dedicated Linux user and advocate for open-source tools. Below, you will find more about my skills and interests. Feel free to reach out if you want to collaborate!
 </p>
 
 &nbsp;
